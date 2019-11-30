@@ -1,0 +1,33 @@
+baseurl = "https://www.example.com/"
+title = "Black & Light"
+author = "David Hamp-Gonsalves"
+canonifyurls = true
+languagecode = "en"
+theme = "hugo-black-and-light-theme"
+
+pygmentsstyle       = "bw"
+pygmentscodefences  = true
+
+[params]
+  sitename = "Black & Light"
+  disableWebFonts = false
+
+[[menu.main]]
+    name = "About"
+    url  = ""
+[[menu.main]]
+    name = "Projects"
+    url  = "https://mattphad.shinyapps.io/shiny/"
+[[menu.main]]
+    name = "Resume"
+    url  = ""
+
+
+
+
+
+
+
+
+
+
